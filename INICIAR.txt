@@ -1,0 +1,2 @@
+D:\ACCION\JAVASCRIPT\CLEAN CODE\clean-course-main>yarn dev
+yarn run v1.22.22
